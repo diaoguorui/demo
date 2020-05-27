@@ -28,6 +28,9 @@ public class Run {
         }
     }
 
+    // 测试上传git
+
+
 //    public static void main(String[] args) {
 //        try {
 //            MyThread thread = new MyThread();
