@@ -1,4 +1,4 @@
-package com.example.demo.ThreadDemo.MultiThreadSkills1.MultiThread2.MultiThread3.MultiThread1;
+package com.example.demo.ThreadDemo.MultiThreadSkills1.MultiThread2.MultiThread3;
 
 /**
  * @Author: DiaoGR

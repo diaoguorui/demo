@@ -1,4 +1,4 @@
-package com.example.demo.ThreadDemo.MultiThreadSkills1.MultiThread2.MultiThread2.Runnable;
+package com.example.demo.ThreadDemo.MultiThreadSkills1.MultiThread2.Runnable2;
 
 /**
  * @Author: DiaoGR

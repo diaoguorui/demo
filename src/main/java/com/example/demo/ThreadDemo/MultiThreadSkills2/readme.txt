@@ -1,0 +1,3 @@
+主要介绍java多线程中的同步，也就是如何在java语言中写出程序安全的程序
+synchronized
+volatile
