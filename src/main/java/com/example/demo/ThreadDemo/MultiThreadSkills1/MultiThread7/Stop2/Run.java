@@ -7,6 +7,7 @@ package com.example.demo.ThreadDemo.MultiThreadSkills1.MultiThread7.Stop2;
  */
 public class Run {
 //    线程没有中断效果
+//    运行thread.interrupt()代码的线程是main线程
 
     public static void main(String[] args) {
         try {

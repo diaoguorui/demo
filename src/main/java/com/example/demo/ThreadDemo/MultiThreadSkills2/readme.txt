@@ -1,3 +1,6 @@
 主要介绍java多线程中的同步，也就是如何在java语言中写出程序安全的程序
-synchronized
-volatile
+1.synchronized对象监视器为Object时的使用
+2.synchronized对象监视器为Class时的使用
+3.非线程安全是如何出现的
+4.关键字volatile的主要作用
+5.关键字volatile与synchronized的区别及使用情况

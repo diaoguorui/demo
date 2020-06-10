@@ -7,6 +7,7 @@ package com.example.demo.ThreadDemo.MultiThreadSkills1.MultiThread7.Stop2;
  */
 public class Run3 {
 //    isInterrupted()并未清除状态标志
+//    this.isInterrupted(): 测试线程Thread对象是否已经是中断状态，但不清除状态标志；案例中线程对象是thread
 
     public static void main(String[] args) {
         try {
